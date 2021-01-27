@@ -1,4 +1,4 @@
-## Migrate Linux application containers from x86 to IBM LinuxONE on Red Hat OpenShift 4.4 using Multi-Arch
+## Migrate Linux application containers from x86 to IBM LinuxONE on Red Hat OpenShift 4.4 using Multi-Architecture
 
 ## Summary
 This Code pattern describes a step-by-step and best practice approach for migrating an existing x86 application container to LinuxONE on Red Hat OpenShift 4.4 using Multi-architecture. This Code Pattern focuses on deploying OpenShift Container using multi-architecture and provides a validated process for deploying a production ready OpenShift Container Platform Cluster on LinuxONE.
