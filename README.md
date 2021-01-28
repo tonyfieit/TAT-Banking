@@ -102,7 +102,7 @@ When a container is started from a multi-arch image, OpenShift selects and uses 
 host.
 
 We have already created variant image for our TAT Banking application that will serve two different architectures (x86 and s390x). First
-thing we will need to do is to enable Manifest tool and assemble the images into a manifest list. To download the manifest deployment files, click [here](https://github.ibm.com/Antoine-Fievre/tat-banking-demo/tree/master/docs/manifest-list).
+thing we will need to do is to enable Manifest tool and assemble the images into a manifest list. To download the manifest deployment files, click [here](https://github.com/tonyfieit/TAT-Banking/tree/master/docs/manifest-list).
 
 Follow the steps outline below to create Multi-Architecture image lists: 
 
@@ -147,7 +147,7 @@ The TAT Banking application has the following images built and available for bot
 ### 6. Deploy TAT Banking Application Using Multi-Architecture Images
 
 We created the multi-architecute images for TAT Banking, now let us use it to deploy the application into OpenShift.
-The following [artifacts](https://github.ibm.com/Antoine-Fievre/tat-banking-demo/tree/master/docs/deployment) will be needed to complete the deployment of TAT-Banking application On Red Hat OpenShift.
+The following [artifacts](https://github.com/tonyfieit/TAT-Banking/tree/master/docs/deployment) will be needed to complete the deployment of TAT-Banking application On Red Hat OpenShift.
  
  * Customer.yaml
  * Account.yaml
